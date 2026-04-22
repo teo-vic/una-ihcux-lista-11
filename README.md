@@ -1,9 +1,10 @@
 # ♻ ReCiclo
 
 ## **• Equipe**
-Victor Teodoro
-Ana Luiza
-Emanuelle Laporte
+
+* Victor Teodoro
+* Ana Luiza
+* Emanuelle Laporte
 
 ## **• Proposta de valor**
 
