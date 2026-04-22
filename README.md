@@ -1,5 +1,10 @@
 # ♻ ReCiclo
 
+## ** Equipe:
+Victor Teodoro
+Ana Luiza
+Emanuelle Laporte
+
 ## **• Proposta de valor**
 
 O principal benefício do **ReCiclo** é **facilitar a doação e reutilização de objetos**, conectando rapidamente quem quer descartar algo com quem realmente precisa.
