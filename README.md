@@ -1,6 +1,6 @@
 # ♻ ReCiclo
 
-## Equipe:
+## **• Equipe **
 Victor Teodoro
 Ana Luiza
 Emanuelle Laporte
